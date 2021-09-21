@@ -1,0 +1,13 @@
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\bin\Debug\netcoreapp3.1\DesignPatternsExamSolution.exe
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\bin\Debug\netcoreapp3.1\DesignPatternsExamSolution.deps.json
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\bin\Debug\netcoreapp3.1\DesignPatternsExamSolution.runtimeconfig.json
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\bin\Debug\netcoreapp3.1\DesignPatternsExamSolution.runtimeconfig.dev.json
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\bin\Debug\netcoreapp3.1\DesignPatternsExamSolution.dll
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\bin\Debug\netcoreapp3.1\DesignPatternsExamSolution.pdb
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\obj\Debug\netcoreapp3.1\DesignPatternsExamSolution.csprojAssemblyReference.cache
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\obj\Debug\netcoreapp3.1\DesignPatternsExamSolution.AssemblyInfoInputs.cache
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\obj\Debug\netcoreapp3.1\DesignPatternsExamSolution.AssemblyInfo.cs
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\obj\Debug\netcoreapp3.1\DesignPatternsExamSolution.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\obj\Debug\netcoreapp3.1\DesignPatternsExamSolution.dll
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\obj\Debug\netcoreapp3.1\DesignPatternsExamSolution.pdb
+C:\Users\Angelina\source\repos\DesignPatternsExamSolution\DesignPatternsExamSolution\obj\Debug\netcoreapp3.1\DesignPatternsExamSolution.genruntimeconfig.cache
